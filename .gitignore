@@ -1,0 +1,17 @@
+target/
+build/
+dist/
+node_modules/
+*.o
+*.a
+*.so
+*.swp
+*.swo
+*~
+.DS_Store
+*.tar.gz
+*.tar.xz
+*.deb
+cross-toolchain/arm-*
+cross-toolchain/*.tar.xz
+.env
